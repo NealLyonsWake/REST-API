@@ -6,7 +6,7 @@
 3. They want the database to show all current employees, create new employees, find employees by name, and delete existing employees
 
 ### Technologies used
-1. 'express' used to manage routes
+1. `express` used to manage routes
 2. 'mongoose' used to create schema and model as part of Mongodb
 3. 'nodemon' used to automate server restart on save
 4. Postman used to test the setup route methods: 'GET', 'POST' 'PATCH' and 'DELETE'.
